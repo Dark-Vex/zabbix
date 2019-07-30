@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
-    <version>2.0</version>
-    <date>2015-06-01T20:04:18Z</date>
+    <version>3.0</version>
+    <date>2016-08-16T09:08:11Z</date>
     <groups>
         <group>
             <name>Templates</name>
@@ -99,6 +99,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Calibration_Retry_Count</name>
@@ -142,6 +143,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Command_Timeout</name>
@@ -185,6 +187,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Current_Pending_Sector</name>
@@ -228,6 +231,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} End-to-End_Error</name>
@@ -271,6 +275,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} G-Sense_Error_Rate</name>
@@ -314,6 +319,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Hardware_ECC_Recovered</name>
@@ -357,6 +363,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Head_Flying_Hours</name>
@@ -400,6 +407,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} High_Fly_Writes</name>
@@ -443,6 +451,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Load_Cycle_Count</name>
@@ -486,6 +495,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Multi_Zone_Error_Rate</name>
@@ -529,6 +539,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Offline_Uncorrectable</name>
@@ -572,6 +583,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Power-Off_Retract_Count</name>
@@ -615,6 +627,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Power_Cycle_Count</name>
@@ -658,6 +671,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Power_On_Hours</name>
@@ -701,6 +715,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Raw_Read_Error_Rate</name>
@@ -744,6 +759,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Reallocated_Event_Count</name>
@@ -787,6 +803,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Reallocated_Sector_Ct</name>
@@ -830,6 +847,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Reported_Uncorrect</name>
@@ -873,6 +891,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Runtime_Bad_Block</name>
@@ -916,6 +935,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Seek_Error_Rate</name>
@@ -959,6 +979,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Seek_Time_Performance</name>
@@ -1002,6 +1023,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Spin_Retry_Count</name>
@@ -1045,6 +1067,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Spin_Up_Time</name>
@@ -1088,6 +1111,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Start_Stop_Count</name>
@@ -1131,6 +1155,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Temperature_Celsius</name>
@@ -1174,6 +1199,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Throughput_Performance</name>
@@ -1217,6 +1243,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Total_LBAs_Read</name>
@@ -1260,6 +1287,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} Total_LBAs_Written</name>
@@ -1303,6 +1331,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                         <item_prototype>
                             <name>{#DISKNAME} UDMA_CRC_Error_Count</name>
@@ -1346,6 +1375,7 @@
                             </applications>
                             <valuemap/>
                             <logtimefmt/>
+                            <application_prototypes/>
                         </item_prototype>
                     </item_prototypes>
                     <trigger_prototypes>
@@ -1357,6 +1387,7 @@
                             <priority>2</priority>
                             <description/>
                             <type>0</type>
+                            <dependencies/>
                         </trigger_prototype>
                         <trigger_prototype>
                             <expression>{Template App S.M.A.R.T.:hdd.smart[{#DISKNAME},Current_Pending_Sector].last(0)}&gt;0</expression>
@@ -1366,6 +1397,7 @@
                             <priority>2</priority>
                             <description/>
                             <type>0</type>
+                            <dependencies/>
                         </trigger_prototype>
                         <trigger_prototype>
                             <expression>{Template App S.M.A.R.T.:hdd.smart[{#DISKNAME},End-to-End_Error].last(0)}&gt;0</expression>
@@ -1375,6 +1407,7 @@
                             <priority>2</priority>
                             <description/>
                             <type>0</type>
+                            <dependencies/>
                         </trigger_prototype>
                         <trigger_prototype>
                             <expression>{Template App S.M.A.R.T.:hdd.smart[{#DISKNAME},Offline_Uncorrectable].last(0)}&gt;0</expression>
@@ -1384,6 +1417,7 @@
                             <priority>2</priority>
                             <description/>
                             <type>0</type>
+                            <dependencies/>
                         </trigger_prototype>
                         <trigger_prototype>
                             <expression>{Template App S.M.A.R.T.:hdd.smart[{#DISKNAME},Reallocated_Event_Count].last(0)}&gt;0</expression>
@@ -1393,6 +1427,7 @@
                             <priority>2</priority>
                             <description/>
                             <type>0</type>
+                            <dependencies/>
                         </trigger_prototype>
                         <trigger_prototype>
                             <expression>{Template App S.M.A.R.T.:hdd.smart[{#DISKNAME},Reallocated_Sector_Ct].last(0)}&gt;0</expression>
@@ -1402,6 +1437,7 @@
                             <priority>2</priority>
                             <description/>
                             <type>0</type>
+                            <dependencies/>
                         </trigger_prototype>
                         <trigger_prototype>
                             <expression>{Template App S.M.A.R.T.:hdd.smart[{#DISKNAME},Spin_Retry_Count].last(0)}&gt;0</expression>
@@ -1411,6 +1447,7 @@
                             <priority>2</priority>
                             <description/>
                             <type>0</type>
+                            <dependencies/>
                         </trigger_prototype>
                         <trigger_prototype>
                             <expression>{Template App S.M.A.R.T.:hdd.smart[{#DISKNAME},Temperature_Celsius].avg(#3)}&gt;60</expression>
@@ -1420,6 +1457,7 @@
                             <priority>4</priority>
                             <description/>
                             <type>0</type>
+                            <dependencies/>
                         </trigger_prototype>
                         <trigger_prototype>
                             <expression>{Template App S.M.A.R.T.:hdd.smart[{#DISKNAME},UDMA_CRC_Error_Count].last(0)}&gt;0</expression>
@@ -1429,6 +1467,7 @@
                             <priority>3</priority>
                             <description/>
                             <type>0</type>
+                            <dependencies/>
                         </trigger_prototype>
                     </trigger_prototypes>
                     <graph_prototypes>
